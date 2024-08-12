@@ -17,3 +17,4 @@ Now it's your turn! Please provide the details of your team members following th
 - 6431503042 Tae
 - 6431503002 Kim
 - 6431503xxx Dew
+- 6431503xxx Chester
