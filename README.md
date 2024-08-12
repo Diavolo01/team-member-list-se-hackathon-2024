@@ -20,3 +20,4 @@ Now it's your turn! Please provide the details of your team members following th
 - 6431503xxx Chester
 - 6431503xxx Taiki
 - 6431503043 Dream
+- 6431503xxx Tae 2nd
